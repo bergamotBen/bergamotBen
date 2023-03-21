@@ -1,22 +1,44 @@
-### Hi there 👋
+# Hi there 👋
 
-DipAdvisor FE
-
-link: https://github.com/Mdmosley12/DipAdvisor-FrontEnd
-
-[DipAdvisor Front End](https://github.com/Mdmosley12/DipAdvisor-FrontEnd “DipAdvisor-FrontEnd on GitHub”)
+[DipAdvisor Front End](https://github.com/Mdmosley12/DipAdvisor-FrontEnd)
 
 DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the bootcamp.
 
-###### #Axios
+##### #Axios #UUID #Formik #Firebase #React-Native-Expo
 
-###### #UUID
+---
 
-###### #Formik
+[DipAdvisor (back end)](https://github.com/Wiggy93/DipAdvisor_API)
 
-###### #Firebase
+The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
 
-###### #React-Native-Expo
+##### #DotEnv #Express #MongoDB #Mongoose #Jest
+
+---
+
+[nc-news (front end)](https://github.com/bergamotBen/nc-news-fe)
+
+This React project pulls together all of the front end skills I learned. I built a CRUD application using JSX, a range of React hooks and front end techniques. [Find the hosted version here](https://magnificent-jelly-b730c4.netlify.app/)
+
+##### #JSX #CSS #HTML #Axios #React #Jest
+
+---
+
+[nc-news (back end)](https://github.com/bergamotBen/be-nc-news)
+
+This is my first PostgreSQL database. It comprises test, development and production environments to simplify testing at each stage of the build.
+
+##### #PostreSQL #Express #Jest #DotEnv
+
+---
+
+[Data Visualisation with React](https://github.com/bergamotBen/react-data-visualisation)
+
+This two-day React sprint helped me learn about making API requests using Axios and presenting them using ChartJS.
+
+##### #React #ChartJS #Axios
+
+---
 
 <!--
 **bergamotBen/bergamotBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
