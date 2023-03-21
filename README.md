@@ -1,40 +1,31 @@
 # Hi there 👋
 
-[DipAdvisor Front End](https://github.com/Mdmosley12/DipAdvisor-FrontEnd)
+[DipAdvisor front end](https://github.com/Mdmosley12/DipAdvisor-FrontEnd) and
+[back end.](https://github.com/Wiggy93/DipAdvisor_API)
 
-DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the bootcamp.
+DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the bootcamp. The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
 
 ##### #Axios #UUID #Formik #Firebase #React-Native-Expo
-
----
-
-[DipAdvisor (back end)](https://github.com/Wiggy93/DipAdvisor_API)
-
-The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
 
 ##### #DotEnv #Express #MongoDB #Mongoose #Jest
 
 ---
 
-[nc-news (front end)](https://github.com/bergamotBen/nc-news-fe)
+[nc-news front end](https://github.com/bergamotBen/nc-news-fe) and [back end.](https://github.com/bergamotBen/be-nc-news)
 
 This React project pulls together all of the front end skills I learned. I built a CRUD application using JSX, a range of React hooks and front end techniques. [Find the hosted version here](https://magnificent-jelly-b730c4.netlify.app/)
 
-##### #JSX #CSS #HTML #Axios #React #Jest
-
----
-
-[nc-news (back end)](https://github.com/bergamotBen/be-nc-news)
-
 This is my first PostgreSQL database. It comprises test, development and production environments to simplify testing at each stage of the build.
 
-##### #PostreSQL #Express #Jest #DotEnv
+##### #JSX #CSS #HTML #Axios #React #Jest
+
+##### #PostgreSQL #Express #Jest #DotEnv
 
 ---
 
 [Data Visualisation with React](https://github.com/bergamotBen/react-data-visualisation)
 
-This two-day React sprint helped me learn about making API requests using Axios and presenting them using ChartJS.
+This two-day React sprint helped me learn about making API requests using Axios and presenting them using ChartJS. The data comes from the [National Grid's carbon intensity API.](https://carbonintensity.org.uk/)
 
 ##### #React #ChartJS #Axios
 
