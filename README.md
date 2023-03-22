@@ -16,7 +16,7 @@ Need to find a new lake to cool off in? Fire up your Android emulators! DipAdvis
 
 ## [nc-news front end](https://github.com/bergamotBen/nc-news-fe) and [back end.](https://github.com/bergamotBen/be-nc-news)
 
-This React project pulls together all of the front end skills I learned. I built a CRUD application using JSX, a range of React hooks and front end techniques. [Find the hosted version here](https://magnificent-jelly-b730c4.netlify.app/) I actually do think this is really very pretty.
+This React project pulls together all of the front end skills I learned. I built a CRUD application using JSX, a range of React hooks and front end techniques. [Find the hosted version here.](https://magnificent-jelly-b730c4.netlify.app/) I actually do think this is really very pretty.
 
 This is my first PostgreSQL database. It comprises test, development and production environments to simplify testing at each stage of the build.
 
@@ -30,7 +30,7 @@ This is my first PostgreSQL database. It comprises test, development and product
 
 ## [Data Visualisation with React](https://github.com/bergamotBen/react-data-visualisation)
 
-This two-day React sprint helped me learn about making API requests using Axios and presenting them using ChartJS. The data comes from the [National Grid's carbon intensity API.](https://carbonintensity.org.uk/) The API refreshes every thirty minutes and reveals that Scotland’s main source of power is (drumroll please) wind, again. Have a peep and see if it’s changed. You never know.
+This two day React sprint helped me learn about making API requests using Axios and presenting them using ChartJS. The data comes from the [National Grid's carbon intensity API.](https://carbonintensity.org.uk/) The API refreshes every thirty minutes and reveals that Scotland’s main source of power is (drumroll please) wind, again. Have a peep and see if it’s changed. You never know.
 
 ### 🔋 🌞 💨
 
