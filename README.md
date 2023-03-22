@@ -1,9 +1,5 @@
 This GitHub account documents my first forays into full stack development. Pull back the curtain and be dazzled by potential. I’ve probably left some sensitive information in at least one of the repos too.
 
-[Chat to me on Twitter.](https://twitter.com/bergamotBen)
-
-[Connect with me on LinkedIn.](https://www.linkedin.com/in/ben-iorns/)
-
 ---
 
 ## [DipAdvisor front end](https://github.com/Mdmosley12/DipAdvisor-FrontEnd) and [back end.](https://github.com/Wiggy93/DipAdvisor_API)
@@ -55,6 +51,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[Chat to me on Twitter.](https://twitter.com/bergamotBen)
+
+[Connect with me on LinkedIn.](https://www.linkedin.com/in/ben-iorns/)
 
 ###### H6	#	Axios
 ###### H6	#	ChartJS
