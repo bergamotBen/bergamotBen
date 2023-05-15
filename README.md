@@ -1,4 +1,5 @@
-This GitHub account documents my first forays into full stack development. Pull back the curtain and be dazzled by potential. I’ve probably left some sensitive information in at least one of the repos too.
+### This GitHub account documents my first forays into full stack development. Pull back the curtain and be dazzled by potential. I’ve probably left some sensitive information in at least one of the repos too.
+
 ---
 
 ## [nc-news front end](https://github.com/bergamotBen/nc-news-fe) and [back end.](https://github.com/bergamotBen/be-nc-news)
