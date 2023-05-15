@@ -1,17 +1,4 @@
 This GitHub account documents my first forays into full stack development. Pull back the curtain and be dazzled by potential. I’ve probably left some sensitive information in at least one of the repos too.
-
----
-
-## [DipAdvisor front end](https://github.com/Mdmosley12/DipAdvisor-FrontEnd) and [back end.](https://github.com/Wiggy93/DipAdvisor_API)
-
-Need to find a new lake to cool off in? Fire up your Android emulators! DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the bootcamp. The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
-
-### 🤿 🏊 🤿
-
-###### [#Axios](https://github.com/axios) [#UUID](https://github.com/uuidjs/uuid) [#Formik](https://github.com/jaredpalmer/formik) [#Firebase](https://github.com/firebase/) [#React-Native-Expo](https://github.com/expo/expo)
-
-###### [#DotEnv](https://github.com/motdotla/dotenv) [#Express](https://github.com/expressjs/express) [#MongoDB](https://github.com/mongodb/mongo) [#Mongoose](https://github.com/Automattic/mongoose) [#Jest](https://github.com/facebook/jest)
-
 ---
 
 ## [nc-news front end](https://github.com/bergamotBen/nc-news-fe) and [back end.](https://github.com/bergamotBen/be-nc-news)
@@ -25,6 +12,18 @@ This is my first PostgreSQL database. It comprises test, development and product
 ###### #JSX #CSS #HTML [#Axios](https://github.com/axios) [#React](https://github.com/facebook/react) [#Jest](https://github.com/facebook/jest)
 
 ###### [#PostgreSQL]() [#Express](https://github.com/expressjs/express) [#Jest](https://github.com/facebook/jest) [#DotEnv](https://github.com/motdotla/dotenv)
+
+---
+
+## [DipAdvisor front end](https://github.com/Mdmosley12/DipAdvisor-FrontEnd) and [back end.](https://github.com/Wiggy93/DipAdvisor_API)
+
+Need to find a new lake to cool off in? Fire up your Android emulators! DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the bootcamp. The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
+
+### 🤿 🏊 🤿
+
+###### [#Axios](https://github.com/axios) [#UUID](https://github.com/uuidjs/uuid) [#Formik](https://github.com/jaredpalmer/formik) [#Firebase](https://github.com/firebase/) [#React-Native-Expo](https://github.com/expo/expo)
+
+###### [#DotEnv](https://github.com/motdotla/dotenv) [#Express](https://github.com/expressjs/express) [#MongoDB](https://github.com/mongodb/mongo) [#Mongoose](https://github.com/Automattic/mongoose) [#Jest](https://github.com/facebook/jest)
 
 ---
 
