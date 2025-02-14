@@ -1,4 +1,4 @@
-### This GitHub account documents my first forays into full stack development. Have a browse through some of the repos. I’ve probably left some sensitive information in at least one of them.
+### This GitHub account documents my first forays into full stack development. Have a browse through some of the repos.
 
 ---
 
