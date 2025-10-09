@@ -1,4 +1,4 @@
-### This GitHub account documents my first forays into full stack development. Have a browse through some of the repos.
+An aspiring software engineer with a strong foundation in full stack development gained through a software development internship and an MSc in computing. I am familiar working in Agile teams to deliver high-quality, maintainable code. As a former teacher, I bring experience in designing and delivering engaging, user-focused materials, collaborating with a wide team and supporting others to achieve their goals.
 
 ---
 
@@ -16,9 +16,19 @@ This is my first PostgreSQL database. It comprises test, development and product
 
 ---
 
+## [Feedback generation with small language models](https://github.com/bergamotBen/feedback_generation)
+
+This repo demonstrates some of the techniques I used during my MSc dissertation. Using DSPy and a vector database of training data, a prompt is optimised and its inferences provide formative feedback for GCSE English students. The repository can be deployed locally and there's a little interface to let you have a look at the results.
+
+### 🤖📝🤖
+
+###### [#Ollama](https://ollama.com) [#DSPy](https://dspy.ai) [#Chroma](https://www.trychroma.com) [#Pandas](https://pandas.pydata.org) [#Streamlit](https://streamlit.io)
+
+---
+
 ## [DipAdvisor front end](https://github.com/Mdmosley12/DipAdvisor-FrontEnd) and [back end.](https://github.com/Wiggy93/DipAdvisor_API)
 
-Need to find a new lake to cool off in? Fire up your Android emulators! DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the bootcamp. The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
+Need to find a new lake to cool off in? Fire up your Android emulators! DipAdvisor is a React-Native project for sharing, posting and rating wild swimming locations. This group project was the final phase of the Northcoders bootcamp. The DipAdvisor back end uses MongoDB and an Express router to fulfil API requests.
 
 ### 🤿 🏊 🤿
 
