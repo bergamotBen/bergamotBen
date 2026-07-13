@@ -2,6 +2,17 @@ An aspiring software engineer with a strong foundation in full stack development
 
 ---
 
+## [MODO](https://github.com/bergamotben/modo) (in progress July '26)
+
+This little todos project is to help me learn:
+- Serverless design patterns
+- Microservices with Supabase edge functions
+- PWA push notifications
+
+...and keep my React skills sharp.
+
+---
+
 ## [nc-news front end](https://github.com/bergamotBen/nc-news-fe) and [back end.](https://github.com/bergamotBen/be-nc-news)
 
 This React project pulls together all of the front end skills I learned. I built a CRUD application using JSX, a range of React hooks and front end techniques. [Find the hosted version here.](https://magnificent-jelly-b730c4.netlify.app/) I actually do think this is really very pretty.
